@@ -10,6 +10,7 @@ namespace DataSerializer
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
